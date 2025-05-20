@@ -40,7 +40,7 @@ bookify/
 
     Clone or Download the Repository
 
-git clone https://github.com/lovekaur2006/Book-Recomendation-And-Review-Platform.git
+git clone https://github.com/lovekaur2006/Book-recomendation-And-Review-Platform.git
 cd bookify
 
 Open index.html
